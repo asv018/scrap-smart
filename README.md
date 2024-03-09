@@ -86,7 +86,7 @@ pnpm run dev" tabindex="0" role="button">
   click on the link given in the terminal to redirect to the website.
 </li>
 
-<h2>Contributing:</h2>
+<h2>Contributing</h2>
 <p>If you want to contribute to the project, follow these steps:</p>
 <ol dir="auto">
 <li>Fork the repository.</li>
