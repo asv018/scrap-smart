@@ -51,8 +51,6 @@
     </clipboard-copy>
   </div></div>
 </li>
-<<<<<<< HEAD
-=======
 
 <li>Install dependencies:
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npm install
@@ -84,4 +82,3 @@ pnpm run dev" tabindex="0" role="button">
 <li>Now a link would appear in the terminal redirecting to  `http://localhost:3000/`,
   click on the link given in the terminal to redirect to the website.
 </li>
->>>>>>> d63eba2532a702278455196babf2b736537824fb
