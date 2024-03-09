@@ -1,8 +1,8 @@
 <h1>SCRAP SMART SUSTAINABILITY</h1>
 
-<p>In the often-overlooked realm of environmental infrastructure, numerous communities grapple with subpar waste management setups, which contribute to environmental degradation and health risks. Our initiative acknowledges the critical need to confront these issues head-on to curtail the adverse climate impacts.</p>
+<p>In the often-overlooked realm of environmental infrastructure, numerous communities grapple with subpar waste management setups, which contribute to environmental degradation and health risks. </p>
 
-<p>Enter our web application, designed to function as an online hub for individuals seeking effective waste management solutions. Whether it's routine disposal or the clearance of accumulated waste in public spaces, our platform is here to assist.The project aims to empower users to report scrap in their areas, incentivize responsible waste disposal, and create a structured system for scrap collectors to purchase recyclable materials thereby promoting sustainability.</p>
+<p>Enter our web application, that acknowledges the critical need to confront these issues head-on to curtail the adverse climate impacts. The project aims to empower users to report scrap in their areas, incentivize responsible waste disposal, and create a structured system for scrap collectors to purchase recyclable materials thereby promoting sustainaibility</p>
 
 <p>our initiative prevents environmental degradation caused by improper waste disposal, which can lead to air and water pollution. Such pollution not only harms ecosystems but also contributes to climate change through the release of harmful chemicals and particulate matter into the atmosphere.</p>
 
