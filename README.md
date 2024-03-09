@@ -85,3 +85,13 @@ pnpm run dev" tabindex="0" role="button">
 <li>Now a link would appear in the terminal redirecting to  `http://localhost:3000/`,
   click on the link given in the terminal to redirect to the website.
 </li>
+
+<h2>Contributing:</h2>
+<p>If you want to contribute to the project, follow these steps:</p>
+<ol dir="auto">
+<li>Fork the repository.</li>
+<li>Create a new branch for your changes.</li>
+<li>Commit your changes to the new branch.</li>
+<li>Push the new branch to your forked repository.</li>
+<li>Create a pull request from your forked repository to the original repository.</li>
+</ol>
