@@ -15,10 +15,11 @@
 <p>It involves a comprehensive platform with three key logins: Users, Municipality and Scrap Collectors. Users can log in to report scrap, sell recyclables and earn credits from the municipality for their contributions. Municipality can monitor statistics and incentivize responsible waste disposal. Scrap collectors can access a marketplace to purchase recyclable materials.</p>
 
 <h2>Tech Stack</h2>
-<!-- <link rel="icon" href="/favicon.ico" sizes="any" /> -->
+<div style = "display:inline-block">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
+</div>
 
 <h2>Features of our Application</h2>
 <br>
