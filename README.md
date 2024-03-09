@@ -26,7 +26,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc8axR7ZTaOrBva4CXPw0ng1X0B6RW3C6EUMYevzgZxcjy50ncrpfk&usqp=CAE&s" alt="firebase" width="40" height="40" style="max-width: 100%;">
 </div>
 
-<h2>Features of our Application</h2>
+<h2>🌟Features of our Application</h2>
 <br>
 <ol>
 <li>Easy to use: The user interface is easy to understand</li>
