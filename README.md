@@ -66,7 +66,7 @@
     </clipboard-copy>
   </div></div>
  
-<p dir="auto">Now setup the Frontend, open the file named as "SCRAP-SMART" and run the following commands in the treminal (after redirecting to the file location)</p>
+<p dir="auto">Now setup the Frontend, open the file named as "SCRAP-SMART" and run the following commands in the terminal (after redirecting to the file location)</p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npm run dev
 </code></pre><div class="zeroclipboard-container">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pnpm i
