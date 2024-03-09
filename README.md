@@ -11,5 +11,6 @@
 
 <h2>ABOUT PROJECT</h2>
 <p>The project aims to empower users to report scrap in their areas, incentivize responsible waste disposal, monitoring statistics by municipality and create a structured system for scrap collectors to purchase recyclable materials. </p>
+<p>111</p>
 
 
