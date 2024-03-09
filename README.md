@@ -29,8 +29,8 @@
 <h2>Features of our Application</h2>
 <br>
 <ol>
-<li>Easy to use: The user interface is easy to understand</li>
-<li>Scrap selling Platform: Individuals can list out their recyclable materials and generate scrap request</li>
+<li>Easy to use: The user interface is easy to understand.</li>
+<li>Scrap selling Platform: Individuals can list out their recyclable materials and generate scrap request.</li>
 <li>Waste dump reporting: Users can upload pictures and Informtaion about the place where the waste is spotted.</li>
 <li>Municipality Dashboard: Municipality can monitor the complaints and the requests registered by the users.</li>
 <li>Feedback: Users can give ratings on their experience of scrap selling. </li>
