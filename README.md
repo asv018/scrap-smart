@@ -11,10 +11,7 @@
 <p>In addition, our project also provides the services as per the user, could be a common man, municipality or a scrap collector</p>
 
 <h2>ABOUT PROJECT</h2>
-<<<<<<< HEAD
 <p>The project aims to empower users to report scrap in their areas, incentivize responsible waste disposal, monitoring statistics by municipality and create a structured system for scrap collectors to purchase recyclable materials. </p>
-<p>111</p>
-=======
->>>>>>> 75a25989be883ea131505acda34308bfac2536b6
+<p>It involves a comprehensive platform with three key logins: Users, Municipality and Scrap Collectors. Users can log in to report scrap, sell recyclables and earn credits from the municipality for their contributions. Municipality can monitor statistics and incentivize responsible waste disposal. Scrap collectors can access a marketplace to purchase recyclable materials.</p>
 
 
