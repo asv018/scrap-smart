@@ -2,7 +2,8 @@
 
 <p>In the often-overlooked realm of environmental infrastructure, numerous communities grapple with subpar waste management setups, which contribute to environmental degradation and health risks. </p>
 
-<p>Enter our web application, that acknowledges the critical need to confront these issues head-on to curtail the adverse climate impacts.</p>
+<p>Enter our web application, that acknowledges the critical need to confront these issues head-on to curtail the adverse climate impacts.
+</p>
 
 <p>Our initiative prevents environmental degradation caused by improper waste disposal, that not only harms biodiversity but also contributes to climate change through the release of harmful chemicals and particulate matter into the atmosphere.</p>
 <p>By facilitating effective waste management practices, we help reduce greenhouse gas emissions associated with decomposing waste.</p>
