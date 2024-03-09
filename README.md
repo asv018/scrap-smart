@@ -10,3 +10,5 @@
 <p>In addition, our project also provides the services as per the user, could be a common man, municipality or a scrap collector</p>
 
 <h2>ABOUT PROJECT</h2>
+
+
