@@ -11,7 +11,19 @@
 <p>In addition, our project also provides the services as per the user, could be a common man, municipality or a scrap collector</p>
 
 <h2>ABOUT PROJECT</h2>
-<p>The project aims to empower users to report scrap in their areas, incentivize responsible waste disposal, monitoring statistics by municipality and create a structured system for scrap collectors to purchase recyclable materials.</p>
-
 <p>The project aims to empower users to report scrap in their areas, incentivize responsible waste disposal, monitoring statistics by municipality and create a structured system for scrap collectors to purchase recyclable materials. </p>
-<p></p>
+<p>It involves a comprehensive platform with three key logins: Users, Municipality and Scrap Collectors. Users can log in to report scrap, sell recyclables and earn credits from the municipality for their contributions. Municipality can monitor statistics and incentivize responsible waste disposal. Scrap collectors can access a marketplace to purchase recyclable materials.</p>
+
+<h2>Tech Stack</h2>
+<link rel="icon" href="/favicon.ico" sizes="any" />
+<h2>Features of our Application</h2>
+<br>
+<ol>
+<li>Easy to use: The user interface is easy to understand</li>
+<li>Scrap selling Platform: Individuals can list out their recyclable materials and generate scrap request</li>
+<li>Waste dump reporting: Users can upload pictures and Informtaion about the place where the waste is spotted.</li>
+<li>Municipality Dashboard: Municipality can monitor the complaints and the requests registered by the users.</li>
+<li>Feedback: Users can give ratings on their experience of scrap selling. </li>
+<li>Marketplace for scrap collectors: provides an easy and convinient marketplace for scrap collectors.</li>
+<li>Credits for users: Users will be credited everytime a complaint get resolved equivalent to some amount of money.</li>
+</ol>
