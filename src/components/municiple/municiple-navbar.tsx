@@ -9,7 +9,6 @@ import {
   NavbarItem,
   Button,
 } from "@nextui-org/react";
-import AcmeLogo from "./acme-logo";
 import { signOut } from "firebase/auth";
 import { auth } from "@/firebase/config";
 import Link from "next/link";
@@ -28,14 +27,12 @@ export default function MunicipalNavbar() {
 
       <NavbarContent className="sm:hidden pr-3" justify="center">
         <NavbarBrand>
-          <AcmeLogo />
           <p className="font-bold text-inherit">ACME</p>
         </NavbarBrand>
       </NavbarContent>
 
       <NavbarContent className="hidden sm:flex gap-4" justify="center">
         <NavbarBrand>
-          <AcmeLogo />
           <p className="font-bold text-inherit">ACME</p>
         </NavbarBrand>
         {routes?.map((route: any, index: any) => {
